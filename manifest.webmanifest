@@ -1,0 +1,17 @@
+{
+  "name": "localleaf - live local deals",
+  "short_name": "localleaf",
+  "description": "Every live deal at nearby dispensaries in one easy-to-see feed.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#24684e",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
