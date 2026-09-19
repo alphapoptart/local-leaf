@@ -11,7 +11,7 @@ prices the listings runs privately.
 
 ## What you are looking at
 
-A **fixed snapshot**, dated **2026-09-19T13:00:28+00:00**. One data file holds the whole state, so
+A **fixed snapshot**, dated **2026-09-19T14:05:24+00:00**. One data file holds the whole state, so
 precise location works exactly as it does in the live app: allow the location
 prompt, type any Florida city, or take a quick pick, and the page lists every
 dispensary within the radius of that point - all of them, with their real menus
