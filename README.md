@@ -1,4 +1,4 @@
-# Local deals, in one place
+# Local leaf, in one place
 
 A Florida cannabis deal browser: every dispensary in range, every product with a
 real price, the discounts it is actually advertised at, and one deduplicated

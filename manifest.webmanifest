@@ -1,6 +1,6 @@
 {
-  "name": "localleaf - live local deals",
-  "short_name": "localleaf",
+  "name": "local leaf - live local deals",
+  "short_name": "local leaf",
   "description": "Every live deal at nearby dispensaries in one easy-to-see feed.",
   "start_url": "/",
   "display": "standalone",
